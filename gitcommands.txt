@@ -1,0 +1,12 @@
+echo "# CloudRepo_1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/DevOps4-0/CloudRepo_1.git
+git push -u origin master
+
+git remote add origin https://github.com/DevOps4-0/CloudRepo_1.git
+git push -u origin master
+
+
+26101993+sowmiyadr@users.noreply.github.com
